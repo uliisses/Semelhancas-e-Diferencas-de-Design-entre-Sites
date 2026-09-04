@@ -12,18 +12,20 @@ Pichau: <img width="1886" height="832" alt="Captura de tela 2026-09-04 163042" s
 
 Semelhanças:
 
-Ambos os Sites possuem um banner no Centro/Topo do site com o personagem que representa a marca.
+Ambos os Sites possuem um banner no Centro/Topo do site com o  Mascote da marca.
 
-A aba departamentos está posicionada no Canto Superior Esquerdos em Ambos os Sites, junto com a logo da marca.
+A aba departamentos está posicionada no Canto Superior Esquerdo em Ambos os Sites, junto com a logo da marca.
 
-No canto Suerior Direito em todos os sites está presente a aba Login/Cadastro do Usuário.
+No canto Superior Direito em todos os sites está presente a aba Login/Cadastro do Usuário.
 
-Há também centralizado em ambos os sites, imagens dos Produtos em Promoções, como uma forma de gatilho ao Visitante do Site.
+Há também centralizado em ambos os sites, imagens dos Produtos em Promoções, como uma forma de Gatilho Mental ao possível Cliente do Site.
 
 Diferenças:
 
 A Principal diferença entre os três sites é a paleta de Cores escolhida para formar a Identidade Visual de Cada Marca.
 
-Kabum e Terabyte possuem o Branco como cor principal e laranja e preto como cores secundárias, respectivamente.
+Kabum possui uma paleta de Cores composta pelo Branco e Azul
 
-A Pichau optou por uma paleta de Cores que se destaca dos sites concorrentes, utilizando o vermelho e preto como cores principais e um Banner que ocupa um espaço maior do que as concorrentes.
+Terabyte também adota uma paleta de Cores parecida com a concorrente, exceto pela cor preta ao fundo do Site
+
+A Pichau optou por uma paleta de Cores que se destaca dos sites concorrentes, utilizando o vermelho e preto como cores principais e um Banner que ocupa um espaço maior do que ambos concorrentes.
